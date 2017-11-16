@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MidiFilePlay</string>
+    <string name="title_activity_drum_conn">DrumConn</string>
+</resources>
